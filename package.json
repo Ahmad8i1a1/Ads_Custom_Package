@@ -1,0 +1,33 @@
+{
+  "name": "com.mobileads.manager",
+  "version": "1.0.0",
+  "displayName": "Mobile Ads Manager",
+  "description": "Universal Mobile Ads management package for Unity (inspired by Gley Mobile Ads). Features a unified static API, Google Mobile Ads (AdMob) & Unity Ads support, GDPR/UMP Consent management, intelligent auto-reload with retry backoff, Remove-Ads IAP handling, and a realistic In-Editor Ad Simulator.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/Ahmad8i1a1/Ads_Custom_Package",
+  "changelogUrl": "https://github.com/Ahmad8i1a1/Ads_Custom_Package/blob/main/CHANGELOG.md",
+  "keywords": [
+    "ads",
+    "admob",
+    "google-mobile-ads",
+    "unity-ads",
+    "monetization",
+    "gley",
+    "mediation",
+    "ump",
+    "gdpr",
+    "simulator"
+  ],
+  "author": {
+    "name": "Ahmad Bilal",
+    "url": "https://github.com/Ahmad8i1a1"
+  },
+  "samples": [
+    {
+      "displayName": "Mobile Ads Demo",
+      "description": "Interactive demo UI showcasing Banners, Interstitials, Rewarded Ads, App Open Ads, UMP Consent, and Remove-Ads handling.",
+      "path": "Samples~/Demo"
+    }
+  ]
+}

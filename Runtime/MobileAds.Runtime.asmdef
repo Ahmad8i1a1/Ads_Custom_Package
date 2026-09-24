@@ -1,0 +1,20 @@
+{
+    "name": "MobileAds.Runtime",
+    "rootNamespace": "MobileAdsPackage",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.ads",
+            "expression": "4.0.0",
+            "define": "MOBILE_ADS_UNITY"
+        }
+    ],
+    "noEngineReferences": false
+}
